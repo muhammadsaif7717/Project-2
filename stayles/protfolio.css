@@ -180,3 +180,48 @@ color: #757575;
 font-size: 16px;
 font-weight: 400;
 }
+
+
+/* SECTION RESUME */
+.resume-container{
+    display: flex;
+    justify-content: center;
+    width: 1600px;
+}
+.resume-title{
+    margin-top: 130px;
+    text-align: center;
+    color: var(--Dark-01, #181818);
+    font-size: 35px;
+    font-weight: 700;
+}
+.resume-colm:last-child{
+    margin-left: 50px;
+}
+.resume-colm>h2{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.resume-colm>h3{
+    color: #474747;
+    font-size: 25px;;
+    font-weight: 700;
+}
+.resume-colm>h4{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+.resume-colm>p{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cv-btn{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
