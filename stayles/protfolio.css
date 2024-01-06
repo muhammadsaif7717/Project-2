@@ -222,11 +222,11 @@ font-weight: 400;
     font-size: 16px;
     font-weight: 400;
 }
-
-.cv-btn{
-    margin: 0 auto;
+.cv-btn-container{
     display: flex;
     justify-content: center;
+}
+.cv-btn{
     margin-top: 30px;
 }
 
@@ -246,7 +246,7 @@ font-weight: 400;
 .msg-clm>h1{
     color: #181818;
 
-    font-size: 35px;l;
+    font-size: 35px;
     font-weight: 700;
 }
 .msg-clm>p{
